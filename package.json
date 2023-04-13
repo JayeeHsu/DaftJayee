@@ -1,0 +1,27 @@
+{
+  "name": "daftjayee",
+  "version": "1.0.0",
+  "description": "my tiny home",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayeeHsu/DaftJayee.git"
+  },
+  "author": "JayeeHsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayeeHsu/DaftJayee/issues"
+  },
+  "homepage": "https://github.com/JayeeHsu/DaftJayee#readme",
+  "dependencies": {
+    "@astrojs/vue": "^2.1.1",
+    "astro": "^2.2.3",
+    "vue": "^3.2.47"
+  }
+}

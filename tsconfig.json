@@ -1,0 +1,6 @@
+{
+  "extends": "astro/tsconfigs/base",
+  "compilerOptions": {
+    "jsx": "preserve", // https://www.tslang.cn/docs/handbook/jsx.html
+  }
+}
