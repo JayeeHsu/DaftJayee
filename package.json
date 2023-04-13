@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/JayeeHsu/DaftJayee#readme",
   "dependencies": {
+    "@astrojs/netlify": "^2.2.2",
     "@astrojs/vue": "^2.1.1",
     "astro": "^2.2.3",
     "vue": "^3.2.47"
